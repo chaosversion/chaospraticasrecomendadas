@@ -179,16 +179,4 @@ Este guia tem como objetivo estabelecer diretrizes claras e aplicáveis para a e
 - Contribua com código aberto.
 - Mantenha-se atualizado com tendências da indústria.
 
----
 
-## 🧭 Conclusão
-
-Este guia busca oferecer uma base sólida para times de desenvolvimento se alinharem em boas práticas técnicas, culturais e operacionais. Ele pode ser adaptado conforme o contexto do projeto, mas serve como ponto inicial para construção de software de qualidade, escalável e sustentável ao longo do tempo.
-
-Se quiser, posso exportar este conteúdo como:
-- Um arquivo `.md` pronto para download
-- Um template de repositório Git (com pastas e arquivos iniciais)
-- Uma página HTML autocontida
-- Um PDF formatado
-
-Deseja isso?
